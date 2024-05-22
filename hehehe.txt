@@ -1,3 +1,5 @@
 apa sih bro!!
 
 Ini adalah contoh kalimat dari folder git B
+
+Ini adalah contoh kalimat dari folder git A
